@@ -1,0 +1,1 @@
+<?php // Sample PHP to insert user ?>

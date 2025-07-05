@@ -1,0 +1,1 @@
+<?php // Sample PHP to fetch product by barcode ?>

@@ -1,0 +1,1 @@
+// Barcode/QR scanning activity code
