@@ -1,0 +1,1 @@
+-- SQL dump for job portal database

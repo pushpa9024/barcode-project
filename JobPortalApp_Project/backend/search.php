@@ -1,0 +1,1 @@
+<?php // Handles job search query ?>
